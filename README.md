@@ -33,7 +33,7 @@ Usage instructions
 
 * In your Github repository, you will need to include the following line (formatted exactly like this) anywhere in your Readme file:
 
-	`~Current Version:1.5~`
+	`~Current Version:1.6~`
 
 * You will need to update the version number anytime you update the plugin, this will ultimately let the plugin know that a new version is available.
 
