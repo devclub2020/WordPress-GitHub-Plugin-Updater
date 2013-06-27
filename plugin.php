@@ -3,7 +3,7 @@
 Plugin Name: WP Github Plugin Updater Test
 Plugin URI: https://github.com/jkudish/WordPress-GitHub-Plugin-Updater
 Description: Semi-automated test for the Github Plugin Updater
-Version: 1.6
+Version: 0.1
 Author: Joachim Kudish
 Author URI: http://jkudish.com/
 License: GPLv2
